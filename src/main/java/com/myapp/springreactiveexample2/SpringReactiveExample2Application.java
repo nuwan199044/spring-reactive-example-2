@@ -1,4 +1,4 @@
-package com.myapp.springreactiveexample1;
+package com.myapp.springreactiveexample2;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

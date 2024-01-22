@@ -1,4 +1,4 @@
-package com.myapp.springreactiveexample1.entity;
+package com.myapp.springreactiveexample2.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

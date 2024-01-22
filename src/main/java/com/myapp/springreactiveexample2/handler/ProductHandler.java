@@ -1,7 +1,7 @@
-package com.myapp.springreactiveexample1.handler;
+package com.myapp.springreactiveexample2.handler;
 
-import com.myapp.springreactiveexample1.entity.Product;
-import com.myapp.springreactiveexample1.service.ProductService;
+import com.myapp.springreactiveexample2.entity.Product;
+import com.myapp.springreactiveexample2.service.ProductService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.MediaType;
 import org.springframework.stereotype.Component;
